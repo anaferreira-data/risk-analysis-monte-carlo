@@ -27,3 +27,15 @@ Markets are volatile and portfolio losses can be severe. This project answers:
 2. Run:
    ```r
    source("src/monte_carlo_mcmc.R")
+
+## Example Outputs
+
+### GBM simulated path
+![GBM Path](results/gbm_path.png)
+
+### Returns distribution (with hedge vs without hedge)
+![Returns Comparison](results/returns_hist_comparison.png)
+
+### Monte Carlo vs Posterior MCMC comparison
+![MC vs MCMC](results/mc_vs_mcmc_density.png)
+
