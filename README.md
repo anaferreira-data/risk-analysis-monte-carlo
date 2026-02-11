@@ -1,5 +1,3 @@
-# risk-analysis-monte-carlo
-Risk analysis of an investment portfolio using Monte Carlo simulation and Bayesian inference
 # Risk Analysis with Monte Carlo & Bayesian Inference (MCMC)
 
 This project estimates the risk of an investment portfolio composed of **100 shares** and a **European put option** used as a hedge.  
